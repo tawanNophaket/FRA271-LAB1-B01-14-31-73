@@ -1,9 +1,9 @@
-config load "C:\Users\Puttipong Wongpong\Downloads\FRA271_Lab1_Sensors-main\FRA271_Lab1_Sensors-main\ADC_reader\ADC_reader.ioc"
+config load "C:\Users\User\Documents\GitHub\FRA271-LAB1-B01-14-31-73\ADC_reader\ADC_reader.ioc"
 project toolchain STM32CubeIDE
 
 SetStructure Advanced
 
-project setCustomFWPath "C:\Users\Puttipong Wongpong\STM32Cube\STM32Cube_FW_G4_V1.6.0"
+project setCustomFWPath "C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\STM32Cube_FW_G4_V1.6.0"
 
 project generate 
 
